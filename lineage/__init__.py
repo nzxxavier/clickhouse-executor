@@ -1,0 +1,1 @@
+from .lineage_emitter import emit_table_to_table
